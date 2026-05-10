@@ -1,10 +1,8 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [Lens Setup 2026.2.111511-latest](./Lens%20Setup%202026.2.111511-latest)
+- [download](./download)
+- [nomic-embed-text-v1.5.F16](./nomic-embed-text-v1.5.F16)
 
 ---
 
